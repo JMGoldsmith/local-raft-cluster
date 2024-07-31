@@ -1,0 +1,17 @@
+tfstate/*
+config/vault.hclic
+.terraform.lock.hcl
+notes
+vault/
+raft/
+logs/
+.terraform
+log-debugs/
+audit.log
+main
+notes for repl
+output.txt
+todo.md
+.DS_Store
+vault-build/bin/
+plugins/
